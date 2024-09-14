@@ -1,0 +1,1303 @@
+County,Census Tract Number,Life Expectancy
+"Allegany County, MD",1.0,80.5
+"Allegany County, MD",2.0,77.7
+"Allegany County, MD",3.0,74.8
+"Allegany County, MD",4.0,72.4
+"Allegany County, MD",5.0,68.2
+"Allegany County, MD",6.0,72.1
+"Allegany County, MD",7.0,72.1
+"Allegany County, MD",8.0,71.7
+"Allegany County, MD",10.0,72.5
+"Allegany County, MD",11.0,76.4
+"Allegany County, MD",12.0,76.9
+"Allegany County, MD",13.0,80.6
+"Allegany County, MD",14.01,79.5
+"Allegany County, MD",14.02,75.7
+"Allegany County, MD",15.02,86.2
+"Allegany County, MD",15.03,78.0
+"Allegany County, MD",16.0,77.2
+"Allegany County, MD",17.0,76.6
+"Allegany County, MD",18.0,77.9
+"Allegany County, MD",19.0,76.1
+"Allegany County, MD",20.0,78.7
+"Allegany County, MD",21.0,77.2
+"Allegany County, MD",22.0,76.4
+"Anne Arundel County, MD",7011.01,78.9
+"Anne Arundel County, MD",7011.02,77.8
+"Anne Arundel County, MD",7012.0,80.3
+"Anne Arundel County, MD",7013.0,79.3
+"Anne Arundel County, MD",7014.0,84.0
+"Anne Arundel County, MD",7021.0,80.3
+"Anne Arundel County, MD",7022.04,82.5
+"Anne Arundel County, MD",7022.05,81.8
+"Anne Arundel County, MD",7022.06,77.7
+"Anne Arundel County, MD",7022.08,80.3
+"Anne Arundel County, MD",7022.09,79.3
+"Anne Arundel County, MD",7023.0,80.3
+"Anne Arundel County, MD",7024.02,81.0
+"Anne Arundel County, MD",7025.0,78.7
+"Anne Arundel County, MD",7026.01,80.0
+"Anne Arundel County, MD",7026.02,83.4
+"Anne Arundel County, MD",7027.01,81.7
+"Anne Arundel County, MD",7027.02,82.7
+"Anne Arundel County, MD",7061.01,82.3
+"Anne Arundel County, MD",7063.01,79.2
+"Anne Arundel County, MD",7063.02,83.8
+"Anne Arundel County, MD",7064.01,79.1
+"Anne Arundel County, MD",7064.02,79.0
+"Anne Arundel County, MD",7065.0,79.0
+"Anne Arundel County, MD",7066.0,78.7
+"Anne Arundel County, MD",7070.01,78.4
+"Anne Arundel County, MD",7070.02,78.7
+"Anne Arundel County, MD",7080.01,78.7
+"Anne Arundel County, MD",7080.04,75.7
+"Anne Arundel County, MD",7301.0,78.2
+"Anne Arundel County, MD",7302.03,77.4
+"Anne Arundel County, MD",7302.04,75.8
+"Anne Arundel County, MD",7303.0,76.6
+"Anne Arundel County, MD",7304.01,75.7
+"Anne Arundel County, MD",7304.02,74.3
+"Anne Arundel County, MD",7305.02,76.2
+"Anne Arundel County, MD",7305.04,79.0
+"Anne Arundel County, MD",7305.05,77.7
+"Anne Arundel County, MD",7305.06,77.9
+"Anne Arundel County, MD",7306.01,80.9
+"Anne Arundel County, MD",7306.03,79.5
+"Anne Arundel County, MD",7306.04,80.3
+"Anne Arundel County, MD",7307.0,80.5
+"Anne Arundel County, MD",7308.0,85.9
+"Anne Arundel County, MD",7309.01,79.8
+"Anne Arundel County, MD",7309.02,81.7
+"Anne Arundel County, MD",7310.02,84.8
+"Anne Arundel County, MD",7310.03,80.2
+"Anne Arundel County, MD",7310.04,80.9
+"Anne Arundel County, MD",7311.02,80.5
+"Anne Arundel County, MD",7311.03,83.1
+"Anne Arundel County, MD",7311.04,80.4
+"Anne Arundel County, MD",7311.05,80.8
+"Anne Arundel County, MD",7312.01,79.9
+"Anne Arundel County, MD",7312.02,77.9
+"Anne Arundel County, MD",7312.03,81.0
+"Anne Arundel County, MD",7312.04,76.8
+"Anne Arundel County, MD",7313.03,78.6
+"Anne Arundel County, MD",7313.06,78.2
+"Anne Arundel County, MD",7313.07,79.2
+"Anne Arundel County, MD",7313.08,78.1
+"Anne Arundel County, MD",7313.09,76.9
+"Anne Arundel County, MD",7313.1,76.2
+"Anne Arundel County, MD",7313.11,78.8
+"Anne Arundel County, MD",7401.02,78.5
+"Anne Arundel County, MD",7401.03,81.9
+"Anne Arundel County, MD",7401.05,78.9
+"Anne Arundel County, MD",7402.01,80.0
+"Anne Arundel County, MD",7402.03,81.7
+"Anne Arundel County, MD",7403.03,79.1
+"Anne Arundel County, MD",7403.04,78.2
+"Anne Arundel County, MD",7403.05,80.5
+"Anne Arundel County, MD",7405.0,79.3
+"Anne Arundel County, MD",7407.01,79.4
+"Anne Arundel County, MD",7407.02,84.9
+"Anne Arundel County, MD",7408.0,78.4
+"Anne Arundel County, MD",7409.0,78.6
+"Anne Arundel County, MD",7410.0,78.6
+"Anne Arundel County, MD",7501.01,71.2
+"Anne Arundel County, MD",7501.02,70.9
+"Anne Arundel County, MD",7502.01,72.7
+"Anne Arundel County, MD",7502.02,73.2
+"Anne Arundel County, MD",7502.03,71.6
+"Anne Arundel County, MD",7503.0,77.6
+"Anne Arundel County, MD",7504.0,77.7
+"Anne Arundel County, MD",7508.01,75.0
+"Anne Arundel County, MD",7508.03,76.9
+"Anne Arundel County, MD",7508.04,76.2
+"Anne Arundel County, MD",7509.0,72.1
+"Anne Arundel County, MD",7510.0,73.2
+"Anne Arundel County, MD",7511.02,75.6
+"Anne Arundel County, MD",7511.03,76.7
+"Anne Arundel County, MD",7512.0,79.3
+"Anne Arundel County, MD",7514.0,79.3
+"Anne Arundel County, MD",7515.0,76.2
+"Anne Arundel County, MD",7516.0,83.0
+"Anne Arundel County, MD",7517.0,81.3
+"Baltimore County, MD",4001.0,78.4
+"Baltimore County, MD",4002.0,76.0
+"Baltimore County, MD",4004.0,78.7
+"Baltimore County, MD",4005.0,80.1
+"Baltimore County, MD",4006.0,78.9
+"Baltimore County, MD",4007.01,76.7
+"Baltimore County, MD",4007.02,76.6
+"Baltimore County, MD",4008.0,75.7
+"Baltimore County, MD",4009.0,77.5
+"Baltimore County, MD",4010.0,76.6
+"Baltimore County, MD",4011.01,74.5
+"Baltimore County, MD",4012.0,74.5
+"Baltimore County, MD",4013.01,78.4
+"Baltimore County, MD",4013.02,80.8
+"Baltimore County, MD",4014.0,79.0
+"Baltimore County, MD",4015.03,81.9
+"Baltimore County, MD",4015.04,79.9
+"Baltimore County, MD",4015.05,78.1
+"Baltimore County, MD",4015.06,78.8
+"Baltimore County, MD",4015.07,74.6
+"Baltimore County, MD",4022.01,76.9
+"Baltimore County, MD",4022.02,78.2
+"Baltimore County, MD",4023.02,79.3
+"Baltimore County, MD",4023.03,78.2
+"Baltimore County, MD",4023.04,78.8
+"Baltimore County, MD",4023.05,80.1
+"Baltimore County, MD",4023.06,78.8
+"Baltimore County, MD",4023.07,79.2
+"Baltimore County, MD",4024.03,75.7
+"Baltimore County, MD",4024.04,76.9
+"Baltimore County, MD",4024.05,76.1
+"Baltimore County, MD",4024.07,76.3
+"Baltimore County, MD",4025.03,76.9
+"Baltimore County, MD",4025.04,83.0
+"Baltimore County, MD",4025.05,79.0
+"Baltimore County, MD",4025.06,74.3
+"Baltimore County, MD",4025.09,80.4
+"Baltimore County, MD",4026.02,78.6
+"Baltimore County, MD",4026.03,79.8
+"Baltimore County, MD",4026.04,76.1
+"Baltimore County, MD",4031.0,77.0
+"Baltimore County, MD",4032.01,74.5
+"Baltimore County, MD",4033.0,79.6
+"Baltimore County, MD",4034.01,78.7
+"Baltimore County, MD",4034.02,79.6
+"Baltimore County, MD",4035.0,86.4
+"Baltimore County, MD",4036.01,86.4
+"Baltimore County, MD",4036.02,80.3
+"Baltimore County, MD",4037.01,80.0
+"Baltimore County, MD",4037.02,79.7
+"Baltimore County, MD",4038.01,81.9
+"Baltimore County, MD",4038.02,84.2
+"Baltimore County, MD",4038.03,84.9
+"Baltimore County, MD",4041.01,80.1
+"Baltimore County, MD",4041.02,79.3
+"Baltimore County, MD",4042.01,79.5
+"Baltimore County, MD",4042.02,77.6
+"Baltimore County, MD",4044.02,80.4
+"Baltimore County, MD",4044.03,82.9
+"Baltimore County, MD",4044.04,80.8
+"Baltimore County, MD",4045.01,79.9
+"Baltimore County, MD",4045.02,77.7
+"Baltimore County, MD",4046.0,80.8
+"Baltimore County, MD",4048.0,81.8
+"Baltimore County, MD",4049.0,79.4
+"Baltimore County, MD",4050.0,78.4
+"Baltimore County, MD",4060.0,80.8
+"Baltimore County, MD",4070.01,77.8
+"Baltimore County, MD",4070.02,79.3
+"Baltimore County, MD",4081.0,82.1
+"Baltimore County, MD",4082.0,83.7
+"Baltimore County, MD",4083.02,84.3
+"Baltimore County, MD",4083.03,88.5
+"Baltimore County, MD",4083.04,81.9
+"Baltimore County, MD",4085.02,80.3
+"Baltimore County, MD",4085.03,75.5
+"Baltimore County, MD",4085.05,79.8
+"Baltimore County, MD",4085.06,75.9
+"Baltimore County, MD",4085.07,79.5
+"Baltimore County, MD",4086.01,80.3
+"Baltimore County, MD",4086.02,83.7
+"Baltimore County, MD",4087.02,79.9
+"Baltimore County, MD",4087.03,85.7
+"Baltimore County, MD",4087.04,81.3
+"Baltimore County, MD",4088.0,77.9
+"Baltimore County, MD",4089.0,82.2
+"Baltimore County, MD",4101.0,80.9
+"Baltimore County, MD",4102.0,82.4
+"Baltimore County, MD",4111.01,81.0
+"Baltimore County, MD",4111.02,79.5
+"Baltimore County, MD",4112.01,81.3
+"Baltimore County, MD",4112.02,78.9
+"Baltimore County, MD",4113.02,75.4
+"Baltimore County, MD",4113.03,80.3
+"Baltimore County, MD",4113.06,80.4
+"Baltimore County, MD",4113.07,78.8
+"Baltimore County, MD",4113.08,78.6
+"Baltimore County, MD",4113.09,81.1
+"Baltimore County, MD",4114.04,79.7
+"Baltimore County, MD",4114.06,80.2
+"Baltimore County, MD",4114.07,82.1
+"Baltimore County, MD",4114.08,80.3
+"Baltimore County, MD",4114.09,80.5
+"Baltimore County, MD",4114.1,82.9
+"Baltimore County, MD",4201.0,76.3
+"Baltimore County, MD",4202.0,77.0
+"Baltimore County, MD",4203.01,74.6
+"Baltimore County, MD",4203.02,73.8
+"Baltimore County, MD",4203.03,69.6
+"Baltimore County, MD",4204.01,73.7
+"Baltimore County, MD",4204.02,73.3
+"Baltimore County, MD",4205.0,74.0
+"Baltimore County, MD",4206.0,71.0
+"Baltimore County, MD",4207.01,73.8
+"Baltimore County, MD",4207.02,72.4
+"Baltimore County, MD",4208.0,75.3
+"Baltimore County, MD",4209.0,71.5
+"Baltimore County, MD",4210.0,69.7
+"Baltimore County, MD",4211.01,74.2
+"Baltimore County, MD",4211.02,73.1
+"Baltimore County, MD",4212.0,71.7
+"Baltimore County, MD",4213.0,72.8
+"Baltimore County, MD",4301.01,71.8
+"Baltimore County, MD",4301.04,74.2
+"Baltimore County, MD",4302.0,72.3
+"Baltimore County, MD",4303.0,72.0
+"Baltimore County, MD",4304.0,75.4
+"Baltimore County, MD",4306.0,78.7
+"Baltimore County, MD",4307.0,80.3
+"Baltimore County, MD",4308.0,78.2
+"Baltimore County, MD",4309.0,76.4
+"Baltimore County, MD",4401.0,76.6
+"Baltimore County, MD",4402.0,76.8
+"Baltimore County, MD",4403.0,77.5
+"Baltimore County, MD",4404.0,79.2
+"Baltimore County, MD",4405.0,77.5
+"Baltimore County, MD",4406.0,79.9
+"Baltimore County, MD",4407.01,78.7
+"Baltimore County, MD",4407.02,83.7
+"Baltimore County, MD",4408.0,80.6
+"Baltimore County, MD",4409.0,79.5
+"Baltimore County, MD",4410.0,75.2
+"Baltimore County, MD",4411.01,76.6
+"Baltimore County, MD",4411.02,79.0
+"Baltimore County, MD",4501.0,74.8
+"Baltimore County, MD",4502.0,73.2
+"Baltimore County, MD",4503.0,72.1
+"Baltimore County, MD",4504.0,71.3
+"Baltimore County, MD",4505.01,72.0
+"Baltimore County, MD",4505.03,72.5
+"Baltimore County, MD",4505.04,73.7
+"Baltimore County, MD",4508.0,74.0
+"Baltimore County, MD",4509.0,78.2
+"Baltimore County, MD",4510.0,75.2
+"Baltimore County, MD",4511.0,74.0
+"Baltimore County, MD",4512.0,74.2
+"Baltimore County, MD",4513.0,75.6
+"Baltimore County, MD",4514.01,73.3
+"Baltimore County, MD",4515.0,72.8
+"Baltimore County, MD",4516.0,74.3
+"Baltimore County, MD",4517.01,74.8
+"Baltimore County, MD",4517.02,75.9
+"Baltimore County, MD",4518.01,74.5
+"Baltimore County, MD",4518.02,75.0
+"Baltimore County, MD",4518.03,77.1
+"Baltimore County, MD",4519.0,76.2
+"Baltimore County, MD",4520.0,76.0
+"Baltimore County, MD",4521.0,75.3
+"Baltimore County, MD",4524.0,75.5
+"Baltimore County, MD",4525.0,75.0
+"Baltimore County, MD",4901.0,81.8
+"Baltimore County, MD",4902.0,80.9
+"Baltimore County, MD",4903.01,79.1
+"Baltimore County, MD",4904.0,80.4
+"Baltimore County, MD",4905.0,84.1
+"Baltimore County, MD",4906.01,86.2
+"Baltimore County, MD",4906.02,81.6
+"Baltimore County, MD",4906.03,82.2
+"Baltimore County, MD",4907.01,80.3
+"Baltimore County, MD",4907.03,81.7
+"Baltimore County, MD",4908.0,82.0
+"Baltimore County, MD",4909.0,76.6
+"Baltimore County, MD",4910.0,80.3
+"Baltimore County, MD",4911.0,81.3
+"Baltimore County, MD",4912.01,77.5
+"Baltimore County, MD",4912.02,80.6
+"Baltimore County, MD",4913.0,81.6
+"Baltimore County, MD",4914.01,73.6
+"Baltimore County, MD",4914.02,79.3
+"Baltimore County, MD",4915.0,79.6
+"Baltimore County, MD",4916.0,74.4
+"Baltimore County, MD",4917.01,79.0
+"Baltimore County, MD",4919.0,77.5
+"Baltimore County, MD",4920.01,76.8
+"Baltimore County, MD",4920.02,78.5
+"Baltimore County, MD",4921.01,78.1
+"Baltimore County, MD",4921.02,77.9
+"Baltimore County, MD",4922.0,77.2
+"Baltimore County, MD",4923.0,76.2
+"Baltimore County, MD",4924.01,80.0
+"Baltimore County, MD",4924.02,77.2
+"Baltimore County, MD",4926.0,78.9
+"Calvert County, MD",8601.01,80.0
+"Calvert County, MD",8601.02,79.4
+"Calvert County, MD",8602.0,81.4
+"Calvert County, MD",8603.0,84.1
+"Calvert County, MD",8604.01,79.9
+"Calvert County, MD",8604.02,78.1
+"Calvert County, MD",8605.01,78.7
+"Calvert County, MD",8605.02,82.2
+"Calvert County, MD",8606.0,82.6
+"Calvert County, MD",8607.01,82.8
+"Calvert County, MD",8607.02,82.7
+"Calvert County, MD",8607.03,82.1
+"Calvert County, MD",8608.01,77.6
+"Calvert County, MD",8608.02,80.6
+"Calvert County, MD",8609.0,83.6
+"Calvert County, MD",8610.01,80.8
+"Calvert County, MD",8610.03,77.2
+"Calvert County, MD",8610.04,79.5
+"Caroline County, MD",9550.0,75.1
+"Caroline County, MD",9551.0,75.8
+"Caroline County, MD",9552.01,73.3
+"Caroline County, MD",9552.02,75.9
+"Caroline County, MD",9553.01,79.1
+"Caroline County, MD",9553.02,74.2
+"Caroline County, MD",9554.0,78.7
+"Caroline County, MD",9555.0,76.2
+"Caroline County, MD",9556.0,74.2
+"Carroll County, MD",5010.01,78.6
+"Carroll County, MD",5010.02,78.1
+"Carroll County, MD",5020.0,78.6
+"Carroll County, MD",5030.0,76.6
+"Carroll County, MD",5041.0,78.9
+"Carroll County, MD",5042.01,79.0
+"Carroll County, MD",5042.02,78.6
+"Carroll County, MD",5051.01,79.7
+"Carroll County, MD",5051.02,83.3
+"Carroll County, MD",5052.03,81.5
+"Carroll County, MD",5052.05,78.4
+"Carroll County, MD",5052.06,82.2
+"Carroll County, MD",5052.08,76.0
+"Carroll County, MD",5061.01,80.6
+"Carroll County, MD",5061.02,79.1
+"Carroll County, MD",5062.0,74.5
+"Carroll County, MD",5075.0,78.9
+"Carroll County, MD",5076.01,76.5
+"Carroll County, MD",5076.02,76.5
+"Carroll County, MD",5077.02,78.6
+"Carroll County, MD",5077.03,81.0
+"Carroll County, MD",5077.04,78.7
+"Carroll County, MD",5078.01,76.0
+"Carroll County, MD",5078.02,79.9
+"Carroll County, MD",5081.01,80.5
+"Carroll County, MD",5081.02,77.5
+"Carroll County, MD",5082.0,76.0
+"Carroll County, MD",5090.01,76.5
+"Carroll County, MD",5090.02,78.0
+"Carroll County, MD",5100.0,76.2
+"Carroll County, MD",5110.0,77.3
+"Carroll County, MD",5120.0,77.2
+"Carroll County, MD",5130.01,79.1
+"Carroll County, MD",5130.02,77.7
+"Carroll County, MD",5141.0,79.8
+"Carroll County, MD",5142.01,79.2
+"Carroll County, MD",5142.02,79.2
+"Cecil County, MD",301.0,79.7
+"Cecil County, MD",302.0,75.1
+"Cecil County, MD",304.0,72.5
+"Cecil County, MD",305.01,79.0
+"Cecil County, MD",305.05,72.9
+"Cecil County, MD",305.06,79.4
+"Cecil County, MD",306.01,78.1
+"Cecil County, MD",306.02,78.7
+"Cecil County, MD",307.0,79.4
+"Cecil County, MD",309.03,75.9
+"Cecil County, MD",309.04,78.4
+"Cecil County, MD",309.05,75.0
+"Cecil County, MD",309.06,76.2
+"Cecil County, MD",312.01,74.8
+"Cecil County, MD",312.02,76.1
+"Cecil County, MD",313.01,77.0
+"Cecil County, MD",313.02,76.5
+"Cecil County, MD",314.0,75.5
+"Charles County, MD",8501.01,82.0
+"Charles County, MD",8501.02,82.1
+"Charles County, MD",8502.02,76.1
+"Charles County, MD",8503.0,78.7
+"Charles County, MD",8504.0,82.1
+"Charles County, MD",8505.0,78.7
+"Charles County, MD",8506.0,78.9
+"Charles County, MD",8507.06,84.8
+"Charles County, MD",8507.08,81.8
+"Charles County, MD",8507.09,73.2
+"Charles County, MD",8507.1,79.2
+"Charles County, MD",8507.11,78.7
+"Charles County, MD",8507.12,79.5
+"Charles County, MD",8507.13,80.0
+"Charles County, MD",8508.01,77.5
+"Charles County, MD",8508.02,80.7
+"Charles County, MD",8509.01,79.4
+"Charles County, MD",8509.02,83.6
+"Charles County, MD",8509.04,79.9
+"Charles County, MD",8509.05,76.1
+"Charles County, MD",8509.06,77.8
+"Charles County, MD",8510.01,80.9
+"Charles County, MD",8510.02,79.1
+"Charles County, MD",8511.0,78.3
+"Charles County, MD",8512.0,81.1
+"Charles County, MD",8513.01,79.1
+"Charles County, MD",8513.02,79.0
+"Charles County, MD",8514.0,82.8
+"Charles County, MD",8515.0,79.3
+"Dorchester County, MD",9701.0,80.0
+"Dorchester County, MD",9702.0,75.1
+"Dorchester County, MD",9703.0,79.8
+"Dorchester County, MD",9704.0,76.8
+"Dorchester County, MD",9705.0,74.3
+"Dorchester County, MD",9706.0,75.5
+"Dorchester County, MD",9707.02,80.0
+"Dorchester County, MD",9708.04,80.1
+"Dorchester County, MD",9709.0,76.9
+"Frederick County, MD",7402.0,79.6
+"Frederick County, MD",7501.0,75.7
+"Frederick County, MD",7503.0,71.1
+"Frederick County, MD",7505.03,79.9
+"Frederick County, MD",7505.04,82.2
+"Frederick County, MD",7505.05,76.9
+"Frederick County, MD",7505.06,77.1
+"Frederick County, MD",7506.0,86.3
+"Frederick County, MD",7507.01,80.3
+"Frederick County, MD",7507.02,74.2
+"Frederick County, MD",7508.01,79.3
+"Frederick County, MD",7508.02,82.2
+"Frederick County, MD",7508.03,87.2
+"Frederick County, MD",7510.02,78.7
+"Frederick County, MD",7510.03,82.6
+"Frederick County, MD",7510.04,80.4
+"Frederick County, MD",7512.01,84.9
+"Frederick County, MD",7512.02,80.4
+"Frederick County, MD",7512.03,78.8
+"Frederick County, MD",7513.02,76.7
+"Frederick County, MD",7516.0,77.4
+"Frederick County, MD",7517.01,78.7
+"Frederick County, MD",7517.02,84.1
+"Frederick County, MD",7518.01,81.0
+"Frederick County, MD",7518.02,81.2
+"Frederick County, MD",7519.01,84.3
+"Frederick County, MD",7519.02,84.5
+"Frederick County, MD",7519.03,78.3
+"Frederick County, MD",7519.04,80.6
+"Frederick County, MD",7520.01,79.3
+"Frederick County, MD",7521.01,80.4
+"Frederick County, MD",7521.02,79.1
+"Frederick County, MD",7522.01,80.7
+"Frederick County, MD",7522.02,80.9
+"Frederick County, MD",7522.04,83.1
+"Frederick County, MD",7523.01,80.3
+"Frederick County, MD",7523.02,84.8
+"Frederick County, MD",7523.03,78.3
+"Frederick County, MD",7525.01,80.2
+"Frederick County, MD",7525.02,80.4
+"Frederick County, MD",7526.01,83.2
+"Frederick County, MD",7526.02,85.2
+"Frederick County, MD",7526.03,81.4
+"Frederick County, MD",7528.01,80.1
+"Frederick County, MD",7528.02,81.3
+"Frederick County, MD",7529.0,78.5
+"Frederick County, MD",7530.01,81.2
+"Frederick County, MD",7530.02,79.6
+"Frederick County, MD",7651.0,74.9
+"Frederick County, MD",7668.0,78.5
+"Frederick County, MD",7675.0,78.0
+"Frederick County, MD",7676.0,80.8
+"Frederick County, MD",7707.0,77.9
+"Frederick County, MD",7722.0,75.6
+"Frederick County, MD",7735.0,79.5
+"Frederick County, MD",7753.02,77.0
+"Frederick County, MD",7754.0,75.4
+"Frederick County, MD",7756.0,82.1
+"Garrett County, MD",1.0,78.2
+"Garrett County, MD",2.0,79.0
+"Garrett County, MD",3.0,77.8
+"Garrett County, MD",4.0,74.9
+"Garrett County, MD",5.0,80.2
+"Garrett County, MD",6.0,78.7
+"Garrett County, MD",7.0,77.3
+"Harford County, MD",3011.02,81.0
+"Harford County, MD",3011.06,81.5
+"Harford County, MD",3011.07,77.0
+"Harford County, MD",3011.08,79.2
+"Harford County, MD",3012.01,77.9
+"Harford County, MD",3012.02,82.5
+"Harford County, MD",3012.05,81.0
+"Harford County, MD",3013.01,74.7
+"Harford County, MD",3013.02,74.7
+"Harford County, MD",3014.01,78.5
+"Harford County, MD",3014.02,75.2
+"Harford County, MD",3016.01,77.2
+"Harford County, MD",3016.02,77.3
+"Harford County, MD",3017.02,77.8
+"Harford County, MD",3017.03,78.3
+"Harford County, MD",3017.04,79.9
+"Harford County, MD",3021.0,76.5
+"Harford County, MD",3022.0,76.8
+"Harford County, MD",3024.0,79.2
+"Harford County, MD",3028.01,77.9
+"Harford County, MD",3028.02,75.5
+"Harford County, MD",3029.01,69.6
+"Harford County, MD",3029.02,74.4
+"Harford County, MD",3031.01,80.5
+"Harford County, MD",3031.02,81.3
+"Harford County, MD",3032.01,80.1
+"Harford County, MD",3032.03,82.3
+"Harford County, MD",3032.04,86.9
+"Harford County, MD",3032.05,83.4
+"Harford County, MD",3034.0,79.3
+"Harford County, MD",3035.01,80.7
+"Harford County, MD",3035.02,79.5
+"Harford County, MD",3036.02,78.9
+"Harford County, MD",3036.03,82.4
+"Harford County, MD",3036.05,80.2
+"Harford County, MD",3036.06,81.7
+"Harford County, MD",3037.0,78.4
+"Harford County, MD",3038.01,79.4
+"Harford County, MD",3038.02,82.1
+"Harford County, MD",3038.03,79.4
+"Harford County, MD",3039.0,81.3
+"Harford County, MD",3041.01,79.0
+"Harford County, MD",3041.02,77.1
+"Harford County, MD",3042.01,79.1
+"Harford County, MD",3042.02,77.9
+"Harford County, MD",3051.0,78.9
+"Harford County, MD",3052.0,76.5
+"Harford County, MD",3053.0,76.3
+"Harford County, MD",3061.0,76.6
+"Harford County, MD",3062.0,73.9
+"Harford County, MD",3064.0,82.7
+"Howard County, MD",6011.03,82.3
+"Howard County, MD",6011.04,83.5
+"Howard County, MD",6011.05,80.2
+"Howard County, MD",6011.07,79.9
+"Howard County, MD",6011.08,80.6
+"Howard County, MD",6012.01,79.8
+"Howard County, MD",6012.03,81.0
+"Howard County, MD",6012.04,80.4
+"Howard County, MD",6021.0,80.7
+"Howard County, MD",6022.01,80.4
+"Howard County, MD",6022.02,82.8
+"Howard County, MD",6023.02,79.1
+"Howard County, MD",6023.03,81.6
+"Howard County, MD",6023.04,80.8
+"Howard County, MD",6023.05,82.0
+"Howard County, MD",6023.06,84.1
+"Howard County, MD",6026.0,79.3
+"Howard County, MD",6027.0,80.7
+"Howard County, MD",6028.0,82.1
+"Howard County, MD",6029.0,82.4
+"Howard County, MD",6030.01,83.4
+"Howard County, MD",6030.03,81.6
+"Howard County, MD",6030.04,83.2
+"Howard County, MD",6040.01,82.8
+"Howard County, MD",6040.02,79.7
+"Howard County, MD",6051.02,86.2
+"Howard County, MD",6051.03,82.7
+"Howard County, MD",6051.04,83.4
+"Howard County, MD",6054.01,82.4
+"Howard County, MD",6054.02,80.6
+"Howard County, MD",6055.02,81.6
+"Howard County, MD",6055.03,81.6
+"Howard County, MD",6055.04,80.3
+"Howard County, MD",6055.05,82.9
+"Howard County, MD",6056.01,77.2
+"Howard County, MD",6056.02,81.6
+"Howard County, MD",6066.01,84.9
+"Howard County, MD",6066.03,82.9
+"Howard County, MD",6066.04,81.7
+"Howard County, MD",6066.06,83.6
+"Howard County, MD",6066.07,81.3
+"Howard County, MD",6067.01,83.1
+"Howard County, MD",6067.04,81.2
+"Howard County, MD",6067.05,79.3
+"Howard County, MD",6067.06,86.8
+"Howard County, MD",6067.07,80.1
+"Howard County, MD",6068.03,80.8
+"Howard County, MD",6068.04,85.6
+"Howard County, MD",6068.05,82.5
+"Howard County, MD",6068.06,82.3
+"Howard County, MD",6069.01,78.8
+"Howard County, MD",6069.05,81.6
+"Howard County, MD",6069.06,80.5
+"Howard County, MD",6069.07,80.3
+"Kent County, MD",9501.0,79.4
+"Kent County, MD",9502.0,80.4
+"Kent County, MD",9503.0,80.6
+"Kent County, MD",9504.0,80.2
+"Kent County, MD",9505.0,73.7
+"Montgomery County, MD",7001.01,82.5
+"Montgomery County, MD",7001.03,82.5
+"Montgomery County, MD",7001.04,81.9
+"Montgomery County, MD",7001.05,78.1
+"Montgomery County, MD",7002.04,82.4
+"Montgomery County, MD",7002.05,87.2
+"Montgomery County, MD",7002.06,82.2
+"Montgomery County, MD",7002.07,80.0
+"Montgomery County, MD",7002.08,77.1
+"Montgomery County, MD",7003.04,80.4
+"Montgomery County, MD",7003.06,82.6
+"Montgomery County, MD",7003.08,80.5
+"Montgomery County, MD",7003.09,81.5
+"Montgomery County, MD",7003.1,80.1
+"Montgomery County, MD",7003.11,80.4
+"Montgomery County, MD",7003.12,83.3
+"Montgomery County, MD",7004.0,80.6
+"Montgomery County, MD",7005.0,79.6
+"Montgomery County, MD",7006.04,80.6
+"Montgomery County, MD",7006.06,82.7
+"Montgomery County, MD",7006.07,84.0
+"Montgomery County, MD",7006.08,83.3
+"Montgomery County, MD",7006.1,80.8
+"Montgomery County, MD",7006.11,80.8
+"Montgomery County, MD",7006.13,80.8
+"Montgomery County, MD",7006.14,82.1
+"Montgomery County, MD",7006.16,82.8
+"Montgomery County, MD",7007.04,84.1
+"Montgomery County, MD",7007.06,81.8
+"Montgomery County, MD",7007.1,81.5
+"Montgomery County, MD",7007.11,84.6
+"Montgomery County, MD",7007.13,77.0
+"Montgomery County, MD",7007.15,81.2
+"Montgomery County, MD",7007.16,82.6
+"Montgomery County, MD",7007.17,83.2
+"Montgomery County, MD",7007.18,86.7
+"Montgomery County, MD",7007.19,78.4
+"Montgomery County, MD",7007.2,81.5
+"Montgomery County, MD",7007.21,81.7
+"Montgomery County, MD",7007.22,80.4
+"Montgomery County, MD",7007.23,78.5
+"Montgomery County, MD",7007.24,77.0
+"Montgomery County, MD",7008.1,83.5
+"Montgomery County, MD",7008.11,81.8
+"Montgomery County, MD",7008.12,81.9
+"Montgomery County, MD",7008.13,82.6
+"Montgomery County, MD",7008.15,81.5
+"Montgomery County, MD",7008.16,80.6
+"Montgomery County, MD",7008.17,84.9
+"Montgomery County, MD",7008.19,80.3
+"Montgomery County, MD",7008.2,78.4
+"Montgomery County, MD",7008.22,79.6
+"Montgomery County, MD",7008.24,80.9
+"Montgomery County, MD",7008.26,88.7
+"Montgomery County, MD",7008.28,85.8
+"Montgomery County, MD",7008.29,86.9
+"Montgomery County, MD",7008.3,79.3
+"Montgomery County, MD",7008.32,78.7
+"Montgomery County, MD",7008.35,85.1
+"Montgomery County, MD",7009.01,83.7
+"Montgomery County, MD",7009.02,81.7
+"Montgomery County, MD",7009.03,80.5
+"Montgomery County, MD",7009.04,79.9
+"Montgomery County, MD",7009.05,82.8
+"Montgomery County, MD",7010.01,83.1
+"Montgomery County, MD",7010.02,87.4
+"Montgomery County, MD",7010.04,85.4
+"Montgomery County, MD",7010.05,85.2
+"Montgomery County, MD",7010.06,82.0
+"Montgomery County, MD",7010.07,83.5
+"Montgomery County, MD",7011.01,81.9
+"Montgomery County, MD",7011.02,80.6
+"Montgomery County, MD",7012.01,88.2
+"Montgomery County, MD",7012.02,82.9
+"Montgomery County, MD",7012.05,83.5
+"Montgomery County, MD",7012.06,86.4
+"Montgomery County, MD",7012.1,85.4
+"Montgomery County, MD",7012.11,83.6
+"Montgomery County, MD",7012.12,85.9
+"Montgomery County, MD",7012.13,90.7
+"Montgomery County, MD",7012.14,80.9
+"Montgomery County, MD",7012.15,87.3
+"Montgomery County, MD",7012.16,80.9
+"Montgomery County, MD",7012.19,79.8
+"Montgomery County, MD",7013.03,83.8
+"Montgomery County, MD",7013.04,85.5
+"Montgomery County, MD",7013.07,80.4
+"Montgomery County, MD",7013.08,84.6
+"Montgomery County, MD",7013.12,83.4
+"Montgomery County, MD",7013.13,85.2
+"Montgomery County, MD",7013.14,78.4
+"Montgomery County, MD",7013.15,85.6
+"Montgomery County, MD",7013.17,81.7
+"Montgomery County, MD",7014.07,85.0
+"Montgomery County, MD",7014.08,82.3
+"Montgomery County, MD",7014.09,85.2
+"Montgomery County, MD",7014.1,80.4
+"Montgomery County, MD",7014.14,82.3
+"Montgomery County, MD",7014.15,83.2
+"Montgomery County, MD",7014.17,80.5
+"Montgomery County, MD",7014.18,83.8
+"Montgomery County, MD",7014.2,79.0
+"Montgomery County, MD",7014.21,77.0
+"Montgomery County, MD",7014.23,77.4
+"Montgomery County, MD",7015.03,81.7
+"Montgomery County, MD",7015.05,83.3
+"Montgomery County, MD",7015.06,85.2
+"Montgomery County, MD",7015.07,85.4
+"Montgomery County, MD",7015.08,78.8
+"Montgomery County, MD",7015.09,81.6
+"Montgomery County, MD",7016.01,78.4
+"Montgomery County, MD",7016.02,79.7
+"Montgomery County, MD",7017.01,84.1
+"Montgomery County, MD",7017.03,80.5
+"Montgomery County, MD",7017.04,81.1
+"Montgomery County, MD",7018.0,85.9
+"Montgomery County, MD",7019.0,80.0
+"Montgomery County, MD",7020.0,77.4
+"Montgomery County, MD",7021.01,83.1
+"Montgomery County, MD",7021.02,80.7
+"Montgomery County, MD",7022.0,84.5
+"Montgomery County, MD",7023.01,79.7
+"Montgomery County, MD",7023.02,82.5
+"Montgomery County, MD",7024.01,79.2
+"Montgomery County, MD",7024.02,83.8
+"Montgomery County, MD",7025.0,79.5
+"Montgomery County, MD",7026.01,79.5
+"Montgomery County, MD",7026.02,80.5
+"Montgomery County, MD",7027.0,86.8
+"Montgomery County, MD",7028.0,83.4
+"Montgomery County, MD",7029.0,88.8
+"Montgomery County, MD",7030.0,83.4
+"Montgomery County, MD",7031.0,84.3
+"Montgomery County, MD",7032.01,84.7
+"Montgomery County, MD",7032.02,86.6
+"Montgomery County, MD",7032.06,83.1
+"Montgomery County, MD",7032.07,83.4
+"Montgomery County, MD",7032.08,83.8
+"Montgomery County, MD",7032.09,82.8
+"Montgomery County, MD",7032.1,81.5
+"Montgomery County, MD",7032.12,85.0
+"Montgomery County, MD",7032.13,78.3
+"Montgomery County, MD",7032.14,86.2
+"Montgomery County, MD",7032.15,83.5
+"Montgomery County, MD",7032.16,80.5
+"Montgomery County, MD",7032.2,83.4
+"Montgomery County, MD",7032.21,81.6
+"Montgomery County, MD",7033.01,84.5
+"Montgomery County, MD",7033.02,85.3
+"Montgomery County, MD",7034.01,82.0
+"Montgomery County, MD",7034.02,82.4
+"Montgomery County, MD",7034.03,80.4
+"Montgomery County, MD",7034.04,80.9
+"Montgomery County, MD",7035.01,83.0
+"Montgomery County, MD",7035.02,85.6
+"Montgomery County, MD",7036.01,84.8
+"Montgomery County, MD",7036.02,77.6
+"Montgomery County, MD",7037.01,81.9
+"Montgomery County, MD",7037.02,82.7
+"Montgomery County, MD",7038.0,81.7
+"Montgomery County, MD",7039.01,84.9
+"Montgomery County, MD",7039.02,81.5
+"Montgomery County, MD",7040.0,85.9
+"Montgomery County, MD",7041.0,82.9
+"Montgomery County, MD",7042.0,84.8
+"Montgomery County, MD",7043.0,82.7
+"Montgomery County, MD",7044.01,83.3
+"Montgomery County, MD",7044.03,84.4
+"Montgomery County, MD",7044.04,87.5
+"Montgomery County, MD",7045.01,84.3
+"Montgomery County, MD",7045.02,85.8
+"Montgomery County, MD",7045.03,87.6
+"Montgomery County, MD",7046.0,92.4
+"Montgomery County, MD",7047.0,85.7
+"Montgomery County, MD",7048.03,80.9
+"Montgomery County, MD",7048.04,81.1
+"Montgomery County, MD",7048.05,83.1
+"Montgomery County, MD",7048.06,77.2
+"Montgomery County, MD",7050.0,80.7
+"Montgomery County, MD",7051.0,87.4
+"Montgomery County, MD",7052.0,83.7
+"Montgomery County, MD",7053.0,89.6
+"Montgomery County, MD",7054.0,88.4
+"Montgomery County, MD",7055.01,80.9
+"Montgomery County, MD",7055.02,86.4
+"Montgomery County, MD",7056.01,80.7
+"Montgomery County, MD",7056.02,96.1
+"Montgomery County, MD",7057.01,87.6
+"Montgomery County, MD",7057.02,89.9
+"Montgomery County, MD",7058.0,93.6
+"Montgomery County, MD",7059.01,86.9
+"Montgomery County, MD",7059.03,88.9
+"Montgomery County, MD",7060.05,84.7
+"Montgomery County, MD",7060.07,86.2
+"Montgomery County, MD",7060.08,84.6
+"Montgomery County, MD",7060.09,88.0
+"Montgomery County, MD",7060.1,82.8
+"Montgomery County, MD",7060.11,86.5
+"Montgomery County, MD",7060.12,88.2
+"Montgomery County, MD",7060.13,85.4
+"Prince George's County, MD",8001.02,78.3
+"Prince George's County, MD",8001.03,78.9
+"Prince George's County, MD",8001.05,80.3
+"Prince George's County, MD",8001.06,80.1
+"Prince George's County, MD",8001.09,76.9
+"Prince George's County, MD",8002.03,83.3
+"Prince George's County, MD",8002.06,79.4
+"Prince George's County, MD",8002.08,80.3
+"Prince George's County, MD",8002.09,76.2
+"Prince George's County, MD",8002.1,77.8
+"Prince George's County, MD",8002.11,78.7
+"Prince George's County, MD",8002.12,79.9
+"Prince George's County, MD",8002.13,79.3
+"Prince George's County, MD",8002.14,77.8
+"Prince George's County, MD",8002.15,76.5
+"Prince George's County, MD",8004.01,81.9
+"Prince George's County, MD",8004.02,78.5
+"Prince George's County, MD",8004.03,82.5
+"Prince George's County, MD",8004.08,79.1
+"Prince George's County, MD",8004.09,80.2
+"Prince George's County, MD",8004.1,81.1
+"Prince George's County, MD",8004.11,82.3
+"Prince George's County, MD",8004.12,85.0
+"Prince George's County, MD",8004.13,77.9
+"Prince George's County, MD",8005.04,80.4
+"Prince George's County, MD",8005.05,81.7
+"Prince George's County, MD",8005.07,80.2
+"Prince George's County, MD",8005.09,87.3
+"Prince George's County, MD",8005.11,80.5
+"Prince George's County, MD",8005.13,80.3
+"Prince George's County, MD",8005.14,80.1
+"Prince George's County, MD",8005.15,82.8
+"Prince George's County, MD",8005.16,81.9
+"Prince George's County, MD",8005.17,80.3
+"Prince George's County, MD",8005.18,80.0
+"Prince George's County, MD",8005.19,84.9
+"Prince George's County, MD",8005.2,76.3
+"Prince George's County, MD",8006.01,78.3
+"Prince George's County, MD",8006.04,78.4
+"Prince George's County, MD",8006.05,77.8
+"Prince George's County, MD",8006.07,79.9
+"Prince George's County, MD",8007.01,82.0
+"Prince George's County, MD",8007.04,78.2
+"Prince George's County, MD",8007.05,78.8
+"Prince George's County, MD",8007.06,79.4
+"Prince George's County, MD",8007.07,78.7
+"Prince George's County, MD",8008.0,80.5
+"Prince George's County, MD",8009.0,81.2
+"Prince George's County, MD",8010.03,77.0
+"Prince George's County, MD",8010.04,77.7
+"Prince George's County, MD",8010.05,76.6
+"Prince George's County, MD",8010.06,79.6
+"Prince George's County, MD",8012.07,82.2
+"Prince George's County, MD",8012.08,79.9
+"Prince George's County, MD",8012.09,78.9
+"Prince George's County, MD",8012.11,77.7
+"Prince George's County, MD",8012.12,80.4
+"Prince George's County, MD",8012.13,81.5
+"Prince George's County, MD",8012.14,79.5
+"Prince George's County, MD",8012.15,78.8
+"Prince George's County, MD",8012.16,81.4
+"Prince George's County, MD",8012.17,76.7
+"Prince George's County, MD",8013.02,79.4
+"Prince George's County, MD",8013.05,83.1
+"Prince George's County, MD",8013.07,88.3
+"Prince George's County, MD",8013.08,84.5
+"Prince George's County, MD",8013.09,82.7
+"Prince George's County, MD",8013.1,83.2
+"Prince George's County, MD",8013.11,80.0
+"Prince George's County, MD",8013.12,82.7
+"Prince George's County, MD",8013.13,78.4
+"Prince George's County, MD",8014.04,78.1
+"Prince George's County, MD",8014.05,80.7
+"Prince George's County, MD",8014.06,81.6
+"Prince George's County, MD",8014.07,78.7
+"Prince George's County, MD",8014.08,82.1
+"Prince George's County, MD",8014.1,84.0
+"Prince George's County, MD",8014.11,83.0
+"Prince George's County, MD",8015.0,83.5
+"Prince George's County, MD",8017.01,75.9
+"Prince George's County, MD",8017.02,78.4
+"Prince George's County, MD",8017.06,74.8
+"Prince George's County, MD",8017.07,80.0
+"Prince George's County, MD",8017.08,78.1
+"Prince George's County, MD",8018.01,79.1
+"Prince George's County, MD",8018.02,77.7
+"Prince George's County, MD",8018.04,79.7
+"Prince George's County, MD",8018.05,73.1
+"Prince George's County, MD",8018.07,81.2
+"Prince George's County, MD",8018.08,76.1
+"Prince George's County, MD",8019.01,78.7
+"Prince George's County, MD",8019.04,78.5
+"Prince George's County, MD",8019.05,78.7
+"Prince George's County, MD",8019.06,70.2
+"Prince George's County, MD",8019.07,76.4
+"Prince George's County, MD",8019.08,80.0
+"Prince George's County, MD",8020.01,77.1
+"Prince George's County, MD",8020.02,75.9
+"Prince George's County, MD",8021.03,81.4
+"Prince George's County, MD",8021.04,71.9
+"Prince George's County, MD",8021.07,74.8
+"Prince George's County, MD",8022.01,79.6
+"Prince George's County, MD",8022.03,76.4
+"Prince George's County, MD",8022.04,79.9
+"Prince George's County, MD",8023.01,77.5
+"Prince George's County, MD",8024.04,73.5
+"Prince George's County, MD",8024.05,83.5
+"Prince George's County, MD",8024.07,75.2
+"Prince George's County, MD",8024.08,76.9
+"Prince George's County, MD",8025.01,76.1
+"Prince George's County, MD",8025.02,79.9
+"Prince George's County, MD",8027.0,77.0
+"Prince George's County, MD",8028.03,79.3
+"Prince George's County, MD",8028.04,80.7
+"Prince George's County, MD",8028.05,82.0
+"Prince George's County, MD",8029.01,73.7
+"Prince George's County, MD",8030.01,77.9
+"Prince George's County, MD",8030.02,79.4
+"Prince George's County, MD",8031.0,78.8
+"Prince George's County, MD",8032.0,71.8
+"Prince George's County, MD",8033.0,79.5
+"Prince George's County, MD",8034.01,71.6
+"Prince George's County, MD",8034.02,78.8
+"Prince George's County, MD",8035.08,76.9
+"Prince George's County, MD",8035.09,76.4
+"Prince George's County, MD",8035.12,78.2
+"Prince George's County, MD",8035.13,78.6
+"Prince George's County, MD",8035.14,75.6
+"Prince George's County, MD",8035.16,82.3
+"Prince George's County, MD",8035.19,79.9
+"Prince George's County, MD",8035.2,80.6
+"Prince George's County, MD",8035.21,81.8
+"Prince George's County, MD",8035.22,79.3
+"Prince George's County, MD",8035.23,85.4
+"Prince George's County, MD",8035.24,77.2
+"Prince George's County, MD",8035.25,75.2
+"Prince George's County, MD",8035.26,80.8
+"Prince George's County, MD",8035.27,80.6
+"Prince George's County, MD",8036.01,81.7
+"Prince George's County, MD",8036.02,75.7
+"Prince George's County, MD",8036.05,83.7
+"Prince George's County, MD",8036.06,81.0
+"Prince George's County, MD",8036.07,81.0
+"Prince George's County, MD",8036.08,79.9
+"Prince George's County, MD",8036.1,83.2
+"Prince George's County, MD",8036.12,77.4
+"Prince George's County, MD",8036.13,78.2
+"Prince George's County, MD",8037.0,82.0
+"Prince George's County, MD",8038.01,79.6
+"Prince George's County, MD",8038.03,84.8
+"Prince George's County, MD",8039.0,78.2
+"Prince George's County, MD",8040.01,75.8
+"Prince George's County, MD",8040.02,79.6
+"Prince George's County, MD",8041.01,77.8
+"Prince George's County, MD",8041.02,79.0
+"Prince George's County, MD",8042.0,78.1
+"Prince George's County, MD",8043.0,75.9
+"Prince George's County, MD",8044.0,79.3
+"Prince George's County, MD",8046.0,83.2
+"Prince George's County, MD",8047.0,82.6
+"Prince George's County, MD",8048.02,74.7
+"Prince George's County, MD",8049.0,79.7
+"Prince George's County, MD",8050.0,84.2
+"Prince George's County, MD",8051.01,77.4
+"Prince George's County, MD",8052.01,74.7
+"Prince George's County, MD",8052.02,78.9
+"Prince George's County, MD",8055.0,79.9
+"Prince George's County, MD",8056.01,75.3
+"Prince George's County, MD",8057.0,84.1
+"Prince George's County, MD",8058.01,80.1
+"Prince George's County, MD",8058.02,76.2
+"Prince George's County, MD",8059.04,80.3
+"Prince George's County, MD",8059.06,78.4
+"Prince George's County, MD",8059.07,78.4
+"Prince George's County, MD",8059.09,80.0
+"Prince George's County, MD",8060.0,84.9
+"Prince George's County, MD",8061.0,77.6
+"Prince George's County, MD",8062.0,81.7
+"Prince George's County, MD",8063.0,78.1
+"Prince George's County, MD",8064.0,86.2
+"Prince George's County, MD",8065.01,82.2
+"Prince George's County, MD",8066.01,77.9
+"Prince George's County, MD",8066.02,77.4
+"Prince George's County, MD",8067.06,84.4
+"Prince George's County, MD",8067.08,81.2
+"Prince George's County, MD",8067.11,87.9
+"Prince George's County, MD",8067.12,79.9
+"Prince George's County, MD",8068.0,82.7
+"Prince George's County, MD",8069.0,80.6
+"Prince George's County, MD",8070.0,79.3
+"Prince George's County, MD",8071.02,80.1
+"Prince George's County, MD",8073.01,81.9
+"Prince George's County, MD",8073.04,84.3
+"Prince George's County, MD",8073.05,83.9
+"Prince George's County, MD",8074.04,85.3
+"Prince George's County, MD",8074.05,82.1
+"Prince George's County, MD",8074.07,85.0
+"Prince George's County, MD",8074.08,81.2
+"Prince George's County, MD",8074.09,78.1
+"Prince George's County, MD",8074.1,78.4
+"Queen Anne's County, MD",8101.0,76.4
+"Queen Anne's County, MD",8102.0,79.0
+"Queen Anne's County, MD",8103.0,81.2
+"Queen Anne's County, MD",8104.0,84.1
+"Queen Anne's County, MD",8105.0,77.7
+"Queen Anne's County, MD",8106.0,79.4
+"Queen Anne's County, MD",8107.0,76.8
+"Queen Anne's County, MD",8108.0,79.8
+"Queen Anne's County, MD",8109.01,80.8
+"Queen Anne's County, MD",8109.02,78.9
+"Queen Anne's County, MD",8110.0,76.8
+"St. Mary's County, MD",8750.0,80.7
+"St. Mary's County, MD",8751.0,76.9
+"St. Mary's County, MD",8752.01,78.2
+"St. Mary's County, MD",8752.02,78.9
+"St. Mary's County, MD",8753.0,81.4
+"St. Mary's County, MD",8754.0,83.0
+"St. Mary's County, MD",8755.0,80.6
+"St. Mary's County, MD",8756.0,81.0
+"St. Mary's County, MD",8757.0,80.7
+"St. Mary's County, MD",8758.02,82.2
+"St. Mary's County, MD",8759.01,83.9
+"St. Mary's County, MD",8759.02,79.8
+"St. Mary's County, MD",8760.01,76.4
+"St. Mary's County, MD",8760.02,82.2
+"St. Mary's County, MD",8761.0,81.9
+"St. Mary's County, MD",8762.0,84.2
+"Somerset County, MD",9301.01,74.0
+"Somerset County, MD",9301.02,75.9
+"Somerset County, MD",9302.0,74.3
+"Somerset County, MD",9303.0,74.2
+"Somerset County, MD",9305.0,75.6
+"Somerset County, MD",9306.0,75.2
+"Talbot County, MD",9601.0,76.5
+"Talbot County, MD",9602.01,83.1
+"Talbot County, MD",9603.0,78.8
+"Talbot County, MD",9604.0,76.1
+"Talbot County, MD",9605.01,78.7
+"Talbot County, MD",9605.02,85.7
+"Talbot County, MD",9606.0,83.9
+"Talbot County, MD",9607.0,80.2
+"Talbot County, MD",9608.0,77.9
+"Talbot County, MD",9609.0,80.8
+"Washington County, MD",3.01,73.1
+"Washington County, MD",3.02,67.2
+"Washington County, MD",4.0,71.7
+"Washington County, MD",5.0,72.0
+"Washington County, MD",6.01,71.5
+"Washington County, MD",6.02,74.9
+"Washington County, MD",7.0,72.1
+"Washington County, MD",8.0,69.7
+"Washington County, MD",9.0,72.1
+"Washington County, MD",10.01,79.5
+"Washington County, MD",10.02,77.8
+"Washington County, MD",101.0,71.1
+"Washington County, MD",102.0,77.9
+"Washington County, MD",103.0,78.0
+"Washington County, MD",104.0,80.0
+"Washington County, MD",105.0,77.1
+"Washington County, MD",106.0,77.8
+"Washington County, MD",107.0,75.3
+"Washington County, MD",108.01,78.6
+"Washington County, MD",108.02,77.8
+"Washington County, MD",109.0,80.3
+"Washington County, MD",111.0,81.2
+"Washington County, MD",112.01,80.4
+"Washington County, MD",112.02,81.1
+"Washington County, MD",113.01,79.4
+"Washington County, MD",113.02,78.1
+"Washington County, MD",114.0,77.3
+"Washington County, MD",115.0,78.1
+"Washington County, MD",116.0,77.4
+"Wicomico County, MD",1.0,73.7
+"Wicomico County, MD",2.0,75.5
+"Wicomico County, MD",3.0,72.1
+"Wicomico County, MD",4.0,77.5
+"Wicomico County, MD",5.0,71.1
+"Wicomico County, MD",101.01,76.9
+"Wicomico County, MD",101.02,79.5
+"Wicomico County, MD",102.0,72.4
+"Wicomico County, MD",103.0,81.4
+"Wicomico County, MD",104.0,80.3
+"Wicomico County, MD",105.01,80.4
+"Wicomico County, MD",105.02,77.7
+"Wicomico County, MD",106.03,77.7
+"Wicomico County, MD",106.04,74.0
+"Wicomico County, MD",106.05,81.2
+"Wicomico County, MD",106.06,76.6
+"Wicomico County, MD",107.01,77.3
+"Wicomico County, MD",107.02,78.0
+"Wicomico County, MD",108.0,78.6
+"Worcester County, MD",9500.0,74.1
+"Worcester County, MD",9503.0,77.8
+"Worcester County, MD",9504.0,79.6
+"Worcester County, MD",9506.0,81.4
+"Worcester County, MD",9507.0,82.0
+"Worcester County, MD",9508.0,75.8
+"Worcester County, MD",9509.0,76.5
+"Worcester County, MD",9510.0,77.2
+"Worcester County, MD",9511.0,81.6
+"Worcester County, MD",9512.0,78.1
+"Worcester County, MD",9513.0,76.0
+"Worcester County, MD",9514.0,77.8
+"Worcester County, MD",9515.0,73.3
+"Worcester County, MD",9517.0,79.5
+"Baltimore city, MD",101.0,77.4
+"Baltimore city, MD",102.0,71.4
+"Baltimore city, MD",103.0,73.4
+"Baltimore city, MD",104.0,76.5
+"Baltimore city, MD",105.0,79.0
+"Baltimore city, MD",201.0,76.0
+"Baltimore city, MD",202.0,80.6
+"Baltimore city, MD",203.0,76.7
+"Baltimore city, MD",301.0,70.3
+"Baltimore city, MD",302.0,74.5
+"Baltimore city, MD",601.0,70.6
+"Baltimore city, MD",602.0,71.2
+"Baltimore city, MD",603.0,73.4
+"Baltimore city, MD",604.0,68.1
+"Baltimore city, MD",702.0,65.9
+"Baltimore city, MD",703.0,62.6
+"Baltimore city, MD",704.0,73.1
+"Baltimore city, MD",801.01,75.7
+"Baltimore city, MD",801.02,66.4
+"Baltimore city, MD",802.0,69.6
+"Baltimore city, MD",803.01,62.8
+"Baltimore city, MD",805.0,65.1
+"Baltimore city, MD",806.0,68.3
+"Baltimore city, MD",808.0,64.6
+"Baltimore city, MD",901.0,68.8
+"Baltimore city, MD",902.0,77.1
+"Baltimore city, MD",903.0,74.0
+"Baltimore city, MD",904.0,74.6
+"Baltimore city, MD",905.0,75.2
+"Baltimore city, MD",906.0,72.5
+"Baltimore city, MD",907.0,68.7
+"Baltimore city, MD",908.0,66.2
+"Baltimore city, MD",909.0,65.2
+"Baltimore city, MD",1102.0,73.0
+"Baltimore city, MD",1201.0,85.8
+"Baltimore city, MD",1202.01,78.9
+"Baltimore city, MD",1203.0,67.9
+"Baltimore city, MD",1204.0,73.5
+"Baltimore city, MD",1205.0,76.7
+"Baltimore city, MD",1206.0,68.1
+"Baltimore city, MD",1301.0,69.7
+"Baltimore city, MD",1302.0,76.7
+"Baltimore city, MD",1303.0,69.1
+"Baltimore city, MD",1304.0,72.2
+"Baltimore city, MD",1306.0,75.0
+"Baltimore city, MD",1307.0,80.5
+"Baltimore city, MD",1308.04,71.7
+"Baltimore city, MD",1308.05,74.3
+"Baltimore city, MD",1308.06,79.9
+"Baltimore city, MD",1401.0,78.3
+"Baltimore city, MD",1402.0,71.7
+"Baltimore city, MD",1403.0,69.2
+"Baltimore city, MD",1501.0,71.7
+"Baltimore city, MD",1502.0,67.9
+"Baltimore city, MD",1503.0,73.1
+"Baltimore city, MD",1504.0,69.5
+"Baltimore city, MD",1505.0,71.4
+"Baltimore city, MD",1506.0,67.5
+"Baltimore city, MD",1507.01,71.9
+"Baltimore city, MD",1507.02,66.1
+"Baltimore city, MD",1508.0,73.7
+"Baltimore city, MD",1509.0,70.2
+"Baltimore city, MD",1510.0,70.8
+"Baltimore city, MD",1511.0,73.7
+"Baltimore city, MD",1512.0,70.4
+"Baltimore city, MD",1513.0,69.3
+"Baltimore city, MD",1601.0,73.1
+"Baltimore city, MD",1602.0,71.1
+"Baltimore city, MD",1603.0,72.7
+"Baltimore city, MD",1604.0,68.6
+"Baltimore city, MD",1605.0,67.8
+"Baltimore city, MD",1606.0,65.6
+"Baltimore city, MD",1607.0,64.1
+"Baltimore city, MD",1608.01,71.8
+"Baltimore city, MD",1608.02,71.4
+"Baltimore city, MD",1701.0,76.4
+"Baltimore city, MD",1702.0,65.3
+"Baltimore city, MD",1703.0,68.6
+"Baltimore city, MD",1801.0,64.3
+"Baltimore city, MD",1802.0,63.6
+"Baltimore city, MD",1901.0,72.1
+"Baltimore city, MD",1902.0,68.7
+"Baltimore city, MD",1903.0,69.7
+"Baltimore city, MD",2001.0,69.5
+"Baltimore city, MD",2003.0,72.1
+"Baltimore city, MD",2004.0,66.7
+"Baltimore city, MD",2005.0,67.4
+"Baltimore city, MD",2006.0,69.2
+"Baltimore city, MD",2007.01,70.8
+"Baltimore city, MD",2008.0,71.3
+"Baltimore city, MD",2101.0,74.3
+"Baltimore city, MD",2102.0,67.9
+"Baltimore city, MD",2201.0,80.1
+"Baltimore city, MD",2301.0,69.9
+"Baltimore city, MD",2302.0,72.5
+"Baltimore city, MD",2303.0,72.4
+"Baltimore city, MD",2401.0,78.7
+"Baltimore city, MD",2402.0,86.0
+"Baltimore city, MD",2403.0,80.7
+"Baltimore city, MD",2404.0,76.3
+"Baltimore city, MD",2501.01,74.7
+"Baltimore city, MD",2501.02,75.9
+"Baltimore city, MD",2501.03,74.0
+"Baltimore city, MD",2502.03,71.2
+"Baltimore city, MD",2502.04,65.6
+"Baltimore city, MD",2502.05,71.2
+"Baltimore city, MD",2502.06,74.3
+"Baltimore city, MD",2502.07,73.5
+"Baltimore city, MD",2503.01,69.3
+"Baltimore city, MD",2503.03,72.1
+"Baltimore city, MD",2504.01,68.1
+"Baltimore city, MD",2504.02,70.0
+"Baltimore city, MD",2601.01,74.2
+"Baltimore city, MD",2601.02,72.7
+"Baltimore city, MD",2602.01,72.7
+"Baltimore city, MD",2602.02,69.5
+"Baltimore city, MD",2602.03,69.4
+"Baltimore city, MD",2603.01,69.8
+"Baltimore city, MD",2603.02,72.6
+"Baltimore city, MD",2604.01,70.7
+"Baltimore city, MD",2604.02,73.1
+"Baltimore city, MD",2604.03,72.7
+"Baltimore city, MD",2605.01,76.9
+"Baltimore city, MD",2606.04,65.0
+"Baltimore city, MD",2606.05,72.3
+"Baltimore city, MD",2607.0,73.2
+"Baltimore city, MD",2608.0,70.4
+"Baltimore city, MD",2609.0,78.7
+"Baltimore city, MD",2610.0,71.2
+"Baltimore city, MD",2611.0,75.4
+"Baltimore city, MD",2701.01,76.9
+"Baltimore city, MD",2701.02,74.3
+"Baltimore city, MD",2702.0,80.0
+"Baltimore city, MD",2703.01,77.2
+"Baltimore city, MD",2703.02,75.7
+"Baltimore city, MD",2704.01,73.5
+"Baltimore city, MD",2704.02,74.9
+"Baltimore city, MD",2705.01,76.7
+"Baltimore city, MD",2705.02,74.3
+"Baltimore city, MD",2706.0,75.0
+"Baltimore city, MD",2707.01,72.2
+"Baltimore city, MD",2707.02,73.1
+"Baltimore city, MD",2707.03,76.1
+"Baltimore city, MD",2708.01,77.0
+"Baltimore city, MD",2708.02,75.7
+"Baltimore city, MD",2708.03,76.0
+"Baltimore city, MD",2708.04,77.7
+"Baltimore city, MD",2708.05,72.5
+"Baltimore city, MD",2709.01,72.9
+"Baltimore city, MD",2709.02,76.3
+"Baltimore city, MD",2709.03,74.5
+"Baltimore city, MD",2710.01,72.5
+"Baltimore city, MD",2710.02,74.5
+"Baltimore city, MD",2711.01,79.4
+"Baltimore city, MD",2711.02,80.5
+"Baltimore city, MD",2712.0,80.8
+"Baltimore city, MD",2713.0,82.2
+"Baltimore city, MD",2714.0,84.3
+"Baltimore city, MD",2715.01,81.3
+"Baltimore city, MD",2715.03,80.1
+"Baltimore city, MD",2716.0,73.8
+"Baltimore city, MD",2717.0,67.7
+"Baltimore city, MD",2718.01,69.3
+"Baltimore city, MD",2718.02,71.6
+"Baltimore city, MD",2719.0,77.6
+"Baltimore city, MD",2720.03,81.4
+"Baltimore city, MD",2720.04,87.3
+"Baltimore city, MD",2720.05,82.9
+"Baltimore city, MD",2720.06,80.4
+"Baltimore city, MD",2720.07,78.5
+"Baltimore city, MD",2801.01,78.6
+"Baltimore city, MD",2801.02,75.7
+"Baltimore city, MD",2802.0,78.7
+"Baltimore city, MD",2803.01,71.8
+"Baltimore city, MD",2803.02,75.3
+"Baltimore city, MD",2804.01,74.4
+"Baltimore city, MD",2804.02,75.9
+"Baltimore city, MD",2804.03,76.7
+"Baltimore city, MD",2804.04,68.4
+"Baltimore city, MD",2805.0,67.0
